@@ -1,0 +1,4 @@
+#Mon Feb 27 15:25:52 BRT 2023
+base.0=C\:\\Users\\admin\\Desktop\\AEVO\\FlutterProjects\\GoshareMobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
